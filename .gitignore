@@ -1,0 +1,15 @@
+# Docker & Environment
+.env
+
+# Development Notes & Internal Docs
+amac.txt
+fazlar.txt
+PROJE_DURUMU.md
+edumatch-ui-style.skill
+edumatch-ui-style.zip
+edumatch_skill_content/
+incele/
+
+# OS Files
+.DS_Store
+Thumbs.db
